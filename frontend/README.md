@@ -50,14 +50,6 @@ npm run dev
 
 ---
 
-## Credenciales de Prueba
-
-| Rol | Email | Contraseña |
-|:----|:------|:-----------|
-| Admin | lucia.rodriguez33@example.com | password123 |
-| Usuario | javier.jimenez60@example.com | password123 |
-
----
 
 ## Autora
 
